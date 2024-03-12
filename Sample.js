@@ -1,0 +1,1 @@
+//A sample Javascript file
